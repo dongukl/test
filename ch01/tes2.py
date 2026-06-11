@@ -1,1 +1,3 @@
-print("Hello, This is Git")
+a, b = map(int, input(),split())
+
+print(a + b)
